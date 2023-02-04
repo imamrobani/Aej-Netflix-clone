@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Netflix Clone Apps</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="app_bar_image">App Bar Image</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="login">Login</string>
+    <string name="not_have_account">"Belum punya akun? "</string>
+    <string name="register">Register</string>
+    <string name="have_account">Already Have An Account</string>
+    <string name="register_new_account">Register New Account</string>
+    <string name="something_error_title">Ups, something error</string>
+    <string name="try_again">Try Again</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="popular">Popular</string>
+    <string name="upcoming">Upcoming</string>
+</resources>
